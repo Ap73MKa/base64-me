@@ -1,6 +1,11 @@
 {
   "name": "base64-me",
+  "private": "false",
+  "author": "ap73mka",
   "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/Ap73MKa/base64-me",
+  "repository": "https://github.com/Ap73MKa/base64-me",
   "type": "module",
   "description": "Simple base64 converter",
   "files": [
