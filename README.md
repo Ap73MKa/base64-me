@@ -1,4 +1,6 @@
 # base64-me
+[![npm.badge]][npm]
+[![MIT][license.badge]][license]
 
 ## Install
 
@@ -29,3 +31,8 @@ const uint8Array = new Uint8Array([
 const result = decode(base64)
 console.log(result)
 ```
+
+[npm]: https://www.npmjs.com/package/base64-me
+[npm.badge]: https://img.shields.io/npm/v/base64-me
+[license.badge]: https://img.shields.io/badge/license-MIT-blue.svg
+[license]: ./LICENSE
